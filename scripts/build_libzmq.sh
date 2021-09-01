@@ -41,4 +41,3 @@ make install
 
 cd "${ZMQ_PREFIX}"
 rm -rf "${ZMQ_SRC_DIR}"
-rm -f zeromq-$ZMQ.tar.gz
